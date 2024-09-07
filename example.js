@@ -1,1 +1,3 @@
-Deno.core.print("Hello world (from example.js file)")
+console.log("Logger Message")
+
+console.sarcasm("My custom function's Message.")
